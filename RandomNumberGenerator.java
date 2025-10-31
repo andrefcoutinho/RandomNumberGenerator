@@ -10,7 +10,7 @@ public class RandomNumberGenerator {
         for (int i = 1; i <= 100; i++) {
             // Generate a random number (can customize range if needed)
             int randomNumber = random.nextInt();
-            System.out.println("Number " + i + ": " + randomNumber);
+            System.out.println("Number " + i + " : " + randomNumber);
         }
     }
 }
